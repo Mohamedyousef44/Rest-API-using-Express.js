@@ -25,11 +25,11 @@ npm run start
 ### API Endpoints (REST API)
 | Courses | Endpoints | Action |
 | --- | --- | --- |
-| GET | /api/v1/courses | get all courses |
-| GET | /api/v1/courses/:id | get a course by id |
-| POST | /api/v1/courses | add course  |
-| PUT | /api/v1/courses/:id | update a course by id  |
-| DELETE | /api/v1/courses/:id | delete a course by id |
+| GET | /api/courses | get all courses |
+| GET | /api/courses/:id | get a course by id |
+| POST | /api/courses | add course  |
+| PUT | /api/courses/:id | update a course by id  |
+| DELETE | /api/courses/:id | delete a course by id |
 
 | Students | Endpoints | Action |
 | --- | --- | --- |
